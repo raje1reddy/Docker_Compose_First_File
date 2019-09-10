@@ -2,7 +2,7 @@
 Docker Compose File
 
 Their are two Apps. i.e. files having front end is in PHP
-backend python 
+and backend in python 
 Firstly make the directory  with this command mkdir docker_Product-Service_Python
   Enter in to the directory   cd docker_Product-Service_Python/
   create source directory using this command   mkdir src
@@ -22,7 +22,7 @@ Firstly make the directory  with this command mkdir docker_Product-Service_Pytho
     ls
     cd ..
    touch docker-compose.yml
- Provide this command i.e.  docker-compose up
+ Provide this command i.e.==========  docker-compose up
    starting the docker machine command is not mandatory if i is working sudo docker-machine start default
    cd github/
 
