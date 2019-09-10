@@ -25,3 +25,10 @@ Firstly make the directory  with this command mkdir docker_Product-Service_Pytho
  Provide this command i.e.  docker-compose up
    starting the docker machine command is not mandatory if i is working sudo docker-machine start default
    cd github/
+
+References:
+https://www.youtube.com/watch?v=Qw9zlE3t8Ko
+
+https://www.youtube.com/watch?v=YFl2mCHdv24
+
+https://spring.io/guides/gs/accessing-data-jpa/
