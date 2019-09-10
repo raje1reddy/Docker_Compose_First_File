@@ -1,7 +1,7 @@
 # Docker_Compose_First_File
 Docker Compose File
 
-Their are two files front end is in PHP
+Their are two Apps. i.e. files having front end is in PHP
 backend python 
 Firstly make the directory  with this command mkdir docker_Product-Service_Python
   Enter in to the directory   cd docker_Product-Service_Python/
