@@ -22,6 +22,6 @@ Firstly make the directory  with this command mkdir docker_Product-Service_Pytho
     ls
     cd ..
    touch docker-compose.yml
- Provide this command to run  docker-compose up
+ Provide this command i.e.  docker-compose up
    sudo docker-machine start default
    cd github/
